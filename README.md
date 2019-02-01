@@ -10,3 +10,5 @@ Passos que foram feitos para modelagem:
 4) Como havia informações com escalas diferentes, pib em real, quantidade de população, porcentagem, optei por padronizar os dados
 
 5) Optei também por utilizar variáveis de taxas ao invés da quantidade da população
+
+6) A análise exploratória foi feita em Python e a modelagem utilizei o R. Optei por utilizar a primeiramente análise hierárquica a fim de ter primeiramente uma noção de quantos clusters seriam utilizados, e após isso, utilizei K-means, com distância euclidiana e ligação completa.
